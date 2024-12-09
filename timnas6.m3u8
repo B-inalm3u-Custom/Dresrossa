@@ -2,5 +2,5 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=6403159,AVERAGE-BANDWIDTH=5716452,RESOLUTION=1980x1020,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_0"
-http://king4k.tv:80/play/live.php?mac=00:1A:79:00:10:B3&stream=443563&extension=m3u8
+http://fuego-iptv.net:2082/play/live.php?mac=00:1A:79:b4:e7:43&stream=191731&extension=m3u8
 #http://xtv.ooo:8080/live/Masoodpishan1/Masoodpishan2/350972.ts
