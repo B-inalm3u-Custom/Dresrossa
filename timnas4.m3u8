@@ -4,5 +4,5 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://31.42.187.37:25461/watchpad13158/1234/336
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:b4:e7:43&stream=1163983&extension=ts
 #http://xtv.ooo:8080/live/danyear12/am809100/350972.ts
