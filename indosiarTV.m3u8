@@ -4,5 +4,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://filex.tv:8080/live/aftab123/004090/302264.ts
 http://xtv.ooo:8080/83212539/43153928/350972
