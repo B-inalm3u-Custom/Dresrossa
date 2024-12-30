@@ -4,5 +4,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://fuego-iptv.net:2082/play/live.php?mac=00:1A:79:b4:e7:43&stream=191731&extension=ts
-#http://xtv.ooo:8080/03332147522/pk3939/350972
+http://xtvplayer.top:8080/live/827281020/827292929/350972.ts
