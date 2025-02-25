@@ -4,4 +4,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://31.42.187.37:25461/watchpad13158/1234/19673
+http://opplex.tv:8080/live/kamran800/800kamran/351030.ts
